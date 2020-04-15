@@ -8,7 +8,7 @@
     </block>
   </view>
   <view class="usermotto">
-    <navigator class="user-motto" url="../myProject03/myProject03" hover-class="bindViewTap">{{motto}}</navigator >
+    <navigator class="user-motto" url="../myProject03/myProject03" hover-class="navigator-hover">{{motto}}</navigator >
     <navigator url="../logs/logs" hover-class="navigator-hover">跳转</navigator>
   </view>
 </view>
