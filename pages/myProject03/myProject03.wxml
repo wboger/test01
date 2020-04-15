@@ -1,0 +1,8 @@
+<!--pages/myProject03/myProject03.wxml-->
+<view class="list">
+  <text class="list">
+  <navigator class="listLine">西方音乐史</navigator>
+  <navigator class="listLine">中国音乐史</navigator>
+  <navigator class="listLine">音乐流派史</navigator>
+  </text>
+</view>

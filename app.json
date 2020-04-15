@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/myProject02/myProject02",
+    "pages/myProject03/myProject03",
+    "pages/myProject04/myProject04",
+    "pages/test/test",
+    "pages/myPage01/myPage01",
+    "pages/myPage02/myPage02",
+    "pages/myPage03/myPage03"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "乐器小讲堂",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "backgroundColor": "#fff",
+    "selectedColor": "#5abe4",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconpace": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/myPage01/myPage01",
+        "text": "音乐历史"
+      },
+      {
+        "pagePath": "pages/myProject02/myProject02",
+        "text": "基本乐理"
+      },
+      {
+        "pagePath": "pages/myProject03/myProject03",
+        "text": "乐器简介"
+      },
+      {
+        "pagePath": "pages/myProject04/myProject04",
+        "text": "音乐工具"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

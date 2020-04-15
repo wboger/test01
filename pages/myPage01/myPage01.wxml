@@ -1,0 +1,8 @@
+<!--pages/myPage01/myPage01.wxml-->
+<view class="list">
+  <navigator url="../logs/logs" hover-class="navigator-hover" class="listline">西方音乐史</navigator>
+  <navigator url="../logs/logs" hover-class="navigator-hover" class="listline">中国音乐史</navigator>
+  <navigator url="../logs/logs" hover-class="navigator-hover" class="listline">音乐流派史</navigator>
+
+</view>
+

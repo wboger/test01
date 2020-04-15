@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {},
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#F0FFF0",
+  "navigationBarTitleText": "音乐历史小讲堂",
+  "navigationBarTextStyle": "black"
+}
